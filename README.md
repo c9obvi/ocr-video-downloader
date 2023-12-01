@@ -45,9 +45,9 @@ This script extracts text from the downloaded video.
 
 > [!NOTE]
 
-> - Ensure Tesseract is correctly installed and available in your system's PATH.
-> - The interval for frame extraction can be adjusted in the script.
-> - Additional image preprocessing might be necessary for better OCR accuracy.
+ - Ensure Tesseract is correctly installed and available in your system's PATH.
+ - The interval for frame extraction can be adjusted in the script.
+ - Additional image preprocessing might be necessary for better OCR accuracy.
 ```
 
 If you have any questions, please feel free to reach out here by opening an issue or via X [0xBerto](https://x.com/0xberto)
