@@ -6,7 +6,7 @@ This project demonstrates how to download videos using `yt-dlp` and then extract
 
 - **Video Download**: Download videos from various platforms using `yt-dlp`.
 > [!NOTE]
-> Specifically using another script I wrote [RepoHere](https://github.com/c9obvi/PyMP4-Downloader)
+> Specifically using another script I wrote [MP4-DL](https://github.com/c9obvi/PyMP4-Downloader)
 - **Text Extraction**: Extract text from the downloaded videos with Tesseract OCR.
 
 ## Requirements
