@@ -32,7 +32,8 @@ pip install -r requirements.txt
      ```bash
      sudo apt-get install tesseract-ocr
      ```
-   - Note: For Windows, installation instructions will vary.
+> [!IMPORTANT]  
+> For Windows, installation instructions will vary.
 
 ## Usage Text Extraction from Video
 
