@@ -17,8 +17,6 @@ run the following command to install these packages:
 pip install -r requirements.txt
 ```
 
-```
-
 ## Features
 
 - **Video Download**: Download videos from various platforms using `yt-dlp`.
