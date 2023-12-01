@@ -45,10 +45,10 @@ def extract_text_from_frame(frame):
 
 def main():
     frames = extract_frames(video_path, interval=30)  # Extract frames every 30 seconds
-
-    for i, frame in enumerate(frames):
-        text = extract_text_from_frame(frame)
-        print(f"Text from frame {i}:\n{text}\n")
+    with open('OCR-OUTPUT.txt', 'w') as file:
+        for i, frame in enumerate(frames):
+            text = extract_text_from_frame(frame)
+            file.write(f"Text from frame {i}:\n{text}\n\n")
 
 if __name__ == "__main__":
     main()
