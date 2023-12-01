@@ -2,6 +2,11 @@
 
 This project demonstrates how to download videos using `yt-dlp` and then extract text from these videos using OpenCV and Tesseract OCR.
 
+## Features
+
+- **Video Download**: Download videos from various platforms using `yt-dlp`.
+- **Text Extraction**: Extract text from the downloaded videos with Tesseract OCR.
+
 ## Requirements
 
 - Python 3.x
@@ -17,12 +22,7 @@ run the following command to install these packages:
 pip install -r requirements.txt
 ```
 
-## Features
-
-- **Video Download**: Download videos from various platforms using `yt-dlp`.
-- **Text Extraction**: Extract text from the downloaded videos with Tesseract OCR.
-
-2. **Install Tesseract OCR**:
+ ## Install Tesseract OCR:
 
    - **macOS**: Use Homebrew to install Tesseract:
      ```bash
