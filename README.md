@@ -1,5 +1,7 @@
 # Video Text Extractor Using yt-dlp, OpenCV, and Tesseract OCR
 
+![](https://maeebnvejslkonktbeha.supabase.co/storage/v1/object/public/cdn/IMG_1245.jpeg)
+
 This project demonstrates how to download videos using `yt-dlp` and then extract text from these videos using OpenCV and Tesseract OCR.
 
 ## Features
